@@ -1,0 +1,375 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Error",
+				"Errores"
+			],
+			[
+				"sql",
+				"sqlCreate"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/xampp/htdocs/Tutorias-Winchannel/index.php",
+			"settings":
+			{
+				"buffer_size": 1574,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Tutorias-Winchannel/config.ini.php",
+			"settings":
+			{
+				"buffer_size": 25,
+				"line_ending": "Windows",
+				"name": "<?php"
+			}
+		},
+		{
+			"file": "general.css",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Tutorias-Winchannel/footer.php",
+			"settings":
+			{
+				"buffer_size": 327,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/xampp/htdocs/Tutorias-Winchannel/header.php",
+			"settings":
+			{
+				"buffer_size": 1024,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"selected_items":
+		[
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Tutorias-Winchannel/footer.php",
+		"/C/xampp/htdocs/Tutorias-Winchannel/header.php",
+		"/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/C/xampp/htdocs/Tutorias-Winchannel/theme/metro/css/bootstrap.css",
+		"/C/xampp/htdocs/CRM_TMR/footer.php",
+		"/C/xampp/htdocs/CRM_TMR/index.php",
+		"/C/xampp/htdocs/CRM_TMR/header.php",
+		"/C/xampp/htdocs/bootstrap-demo/index.html",
+		"/C/xampp/htdocs/CRM_TMR/ajax/estadisticas.php",
+		"/C/xampp/htdocs/CRM_TMR/js/estadisticas.js",
+		"/C/xampp/htdocs/CRM_TMR/estadisticas.php",
+		"/C/xampp/htdocs/CRM_TMR/js/admin.js",
+		"/C/xampp/htdocs/CRM_TMR/ajax/admin.php",
+		"/C/xampp/htdocs/CRM_TMR/admin.php",
+		"/C/xampp/htdocs/CRM_TMR/docs/2013-10-21.sql",
+		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I121210",
+		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I130429",
+		"/C/Users/jamartinez/Desktop/Nueva carpeta (2)/EX92.LMFOA.I131021",
+		"/C/xampp/htdocs/CRM_TMR/js/index.js",
+		"/C/xampp/htdocs/CRM_TMR/interface_derecha.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/index.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/upload.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/general.css",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/ajax/CrearTabla.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/index.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/footer.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/ajax/GuardarRegistro.php",
+		"/C/xampp/htdocs/CRM_TMR/login.php",
+		"/C/xampp/htdocs/CRM_TMR/js/ver_browser.js",
+		"/C/xampp/htdocs/CRM_TMR/logout.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/ver_browser.js",
+		"/C/xampp/htdocs/hack_paginasamarillas/Todo.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/DB_mysql.class.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/signin.css",
+		"/C/xampp/htdocs/hack_paginasamarillas/index.php",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/hack_paginasamarillas/index.php",
+		"/C/Users/jamartinez/Desktop/index.html",
+		"/C/xampp/php/php.ini",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/videollamada/DB_mysql.class.php",
+		"/C/xampp/phpMyAdmin/config.inc.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"SESSION",
+			"error_re",
+			"noti"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/xampp/htdocs/Tutorias-Winchannel/index.php",
+					"settings":
+					{
+						"buffer_size": 1574,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								985,
+								985
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/xampp/htdocs/Tutorias-Winchannel/config.ini.php",
+					"settings":
+					{
+						"buffer_size": 25,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								20,
+								20
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<?php",
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "general.css",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/xampp/htdocs/Tutorias-Winchannel/footer.php",
+					"settings":
+					{
+						"buffer_size": 327,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/xampp/htdocs/Tutorias-Winchannel/header.php",
+					"settings":
+					{
+						"buffer_size": 1024,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								980,
+								980
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 154.0,
+	"status_bar_visible": true
+}

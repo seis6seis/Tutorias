@@ -1,0 +1,295 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"salida_cs",
+				"salida_cvs"
+			],
+			[
+				"salida",
+				"salida_empresa"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"da",
+				"date"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"Error",
+				"Errores"
+			],
+			[
+				"sql",
+				"sqlCreate"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/emailing/index.php",
+		"/C/xampp/htdocs/emailing/head.php",
+		"/C/xampp/htdocs/Tutorias-Winchannel/config.ini.php",
+		"/C/xampp/htdocs/emailing/config.php",
+		"/C/xampp/htdocs/emailing/cron/index.php",
+		"/C/xampp/htdocs/emailing/ajax/ajax_GenerarEmailing.php",
+		"/C/xampp/htdocs/emailing/js/generar-emailing.js",
+		"/C/xampp/htdocs/emailing/crear-proyecto.php",
+		"/C/xampp/htdocs/emailing/js/cargar-csv.js",
+		"/C/xampp/htdocs/emailing/cargar-csv.php",
+		"/C/xampp/htdocs/emailing/js/plantilla-email.js",
+		"/C/xampp/htdocs/emailing/plantilla-email.php",
+		"/C/xampp/htdocs/emailing/foot.php",
+		"/C/xampp/htdocs/emailing/lib/ckeditor/samples/api.html",
+		"/C/xampp/htdocs/emailing/lib/ckeditor/samples/plugins/htmlwriter/outputhtml.html",
+		"/C/xampp/htdocs/emailing/js/index.js",
+		"/C/xampp/htdocs/emailing/ajax/ajax_crear-proyecto.php",
+		"/C/xampp/htdocs/emailing/ajax/ajax_ListaProyectos.php",
+		"/C/xampp/htdocs/emailing/generar-emailing.php",
+		"/C/xampp/htdocs/emailing/js/crear-proyecto.js",
+		"/C/xampp/htdocs/emailing/css/general.css",
+		"/C/xampp/htdocs/emailing/generar-emailing2.php",
+		"/C/xampp/htdocs/emailing/Notas.txt",
+		"/C/xampp/htdocs/emailing/login.php",
+		"/C/xampp/htdocs/emailing/pub/image.php",
+		"/C/xampp/htdocs/emailing/cron/envio-masivo.php",
+		"/C/xampp/htdocs/emailing/pub/config.php",
+		"/C/xampp/htdocs/emailing/pub/.htaccess",
+		"/C/xampp/htdocs/emailing/lib/DB_mysql.class.php",
+		"/C/xampp/htdocs/emailing/pub/index.php",
+		"/C/xampp/htdocs/emailing/cron/.htaccess",
+		"/C/xampp/htdocs/emailing/cron/image.php",
+		"/C/xampp/htdocs/emailing/cron/image.jpg",
+		"/C/xampp/htdocs/hack_paginasamarillas/Todo.php",
+		"/C/xampp/htdocs/webrtc.html",
+		"/C/xampp/htdocs/tmr/header.php",
+		"/C/xampp/htdocs/tmr/footer.php",
+		"/C/xampp/htdocs/tmr/interface_derecha.php",
+		"/C/xampp/htdocs/tmr/bootstrap/datetimepicker/datetimepicker.css",
+		"/C/xampp/htdocs/tmr/bootstrap/datetimepicker/datetimepicker.js",
+		"/C/xampp/htdocs/tmr/js/index.js",
+		"/C/xampp/htdocs/tmr/index.php",
+		"/C/xampp/htdocs/tmr/js/estadisticas.js",
+		"/C/xampp/htdocs/tmr/estadisticas.php",
+		"/C/xampp/htdocs/tmr/ajax/estadisticas.php",
+		"/C/Users/jamartinez/Desktop/crm_tmr.sql",
+		"/C/xampp/htdocs/tmr/js/admin.js",
+		"/C/xampp/htdocs/tmr/ajax/admin.php",
+		"/C/xampp/htdocs/tmr/admin.php",
+		"/C/xampp/htdocs/tmr/lib/ExportarBBDD_CSV.php",
+		"/C/xampp/htdocs/tmr/lib/ExportarBBDD_XLS.php",
+		"/C/xampp/htdocs/tmr/js/logica.js",
+		"/C/xampp/htdocs/tmr/ajax/index.php",
+		"/C/xampp/htdocs/tmr/login.php",
+		"/C/xampp/htdocs/tmr/docs/2013-10-27.sql",
+		"/C/xampp/htdocs/CRM_TMR/lib/ExportarBBDD_XLS.php",
+		"/C/xampp/htdocs/CRM_TMR/estadisticas.php",
+		"/C/xampp/htdocs/CRM_TMR/js/estadisticas.js",
+		"/C/xampp/htdocs/CRM_TMR/lib/ExportarBBDD_CSV.php",
+		"/C/xampp/htdocs/CRM_TMR/admin.php",
+		"/C/xampp/htdocs/CRM_TMR/index.php",
+		"/C/xampp/htdocs/CRM_TMR/menu-izq.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/general.css",
+		"/C/xampp/htdocs/CRM_TMR/js/index.js",
+		"/C/xampp/htdocs/CRM_TMR/interface_derecha.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/index.php",
+		"/C/xampp/htdocs/CRM_TMR/ExportarBBDD.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/PHPExcel_1.7.9_doc/Examples/01simple-download-pdf.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/PHPExcel_1.7.9_doc/Examples/01simple-download-xls.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/PHPExcel_1.7.9_doc/Examples/01simple-download-xlsx.php",
+		"/C/xampp/htdocs/CRM_TMR/js/carhartl-jquery-cookie-v1.4.0-0-g3caf209.zip",
+		"/C/Users/jamartinez/AppData/Roaming/Sublime Text 2/Packages/Git/Git.sublime-settings",
+		"/C/xampp/htdocs/CRM_TMR/header.php",
+		"/C/xampp/htdocs/CRM_TMR/js/inputmask.js",
+		"/C/xampp/htdocs/CRM_TMR/footer.php",
+		"/C/xampp/htdocs/mySQL_Provincias/spain_municipios_INE.sql",
+		"/C/xampp/htdocs/mySQL_Provincias/spain_provincias.sql",
+		"/C/xampp/htdocs/CRM_TMR/prueba.php",
+		"/C/xampp/htdocs/CRM_TMR/js/logica.js",
+		"/C/xampp/htdocs/CRM_TMR/lib/DB_mysql.class - 1and1.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/admin.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/estadisticas.php",
+		"/C/xampp/htdocs/CRM_TMR/ajax/ExportarBBDD.php",
+		"/C/xampp/htdocs/CRM_TMR/js/admin.js",
+		"/C/xampp/htdocs/CRM_TMR/logout.php",
+		"/C/xampp/htdocs/CRM_TMR/login.php",
+		"/C/xampp/htdocs/CRM_TMR/js/login.js",
+		"/C/xampp/htdocs/Tutorias-Winchannel/theme/metro/css/bootstrap.css",
+		"/C/xampp/htdocs/bootstrap-demo/index.html",
+		"/C/xampp/htdocs/CRM_TMR/docs/2013-10-21.sql",
+		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I121210",
+		"/Y/IberiaCloud/Enviado/EX92.LMFOA.I130429",
+		"/C/Users/jamartinez/Desktop/Nueva carpeta (2)/EX92.LMFOA.I131021",
+		"/C/xampp/htdocs/CRM_TMR/ajax/upload.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/ajax/CrearTabla.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/index.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/footer.php",
+		"/C/xampp/htdocs/CRM_TMR/backoffice/ajax/GuardarRegistro.php",
+		"/C/xampp/htdocs/CRM_TMR/js/ver_browser.js",
+		"/C/xampp/htdocs/CRM_TMR/lib/ver_browser.js",
+		"/C/xampp/htdocs/CRM_TMR/lib/DB_mysql.class.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/signin.css",
+		"/C/xampp/htdocs/hack_paginasamarillas/index.php",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/hack_paginasamarillas/index.php",
+		"/C/Users/jamartinez/Desktop/index.html",
+		"/C/xampp/php/php.ini",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/videollamada/DB_mysql.class.php",
+		"/C/xampp/phpMyAdmin/config.inc.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"data",
+			"data.Error",
+			"ajax_listaProyectos.php",
+			"	",
+			"ajax_listaProyectos.php",
+			"samsung",
+			" ){",
+			"SESSION",
+			"error_re",
+			"noti"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 201.0,
+	"status_bar_visible": true
+}
