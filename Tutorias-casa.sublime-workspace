@@ -1,0 +1,362 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"wid",
+				"width"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"Error",
+				"Errores"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"Pag",
+				"PagNombreCorto"
+			],
+			[
+				"a",
+				"attr"
+			],
+			[
+				"Na",
+				"NameBBDD"
+			],
+			[
+				"parame",
+				"parametros"
+			],
+			[
+				"Sexo",
+				"SexoCargo"
+			],
+			[
+				"con",
+				"cont"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"jquer",
+				"jquery-ui"
+			],
+			[
+				"jquery",
+				"jqueryui"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Color picker"
+			],
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"gi",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/web/hack_paginasamarillas/css/screen.css",
+		"/home/web/hack_paginasamarillas/index.php",
+		"/home/web/hack_paginasamarillas/administrar.php",
+		"/home/web/hack_paginasamarillas/config.php",
+		"/home/web/hack_paginasamarillas/cron/config.php",
+		"/home/web/hack_paginasamarillas/head.php",
+		"/home/web/hack_paginasamarillas/administrar_ajax.php",
+		"/home/web/hack_paginasamarillas/descarga-tabla-csv.php",
+		"/home/web/hack_paginasamarillas/cron/index_cron.php",
+		"/home/web/hack_paginasamarillas/cron/Todo.php_",
+		"/home/web/hack_paginasamarillas/lib/DB_mysql.class.php",
+		"/home/web/emailing/head.php",
+		"/home/web/emailing/foot.php",
+		"/home/web/emailing/ajax/ajax_GenerarEmailing.php",
+		"/home/web/emailing/js/generar-emailing.js",
+		"/home/web/emailing/js/adjunto.js",
+		"/home/web/emailing/adjunto.php",
+		"/home/web/emailing/up.php",
+		"/home/web/emailing/css/general.css",
+		"/home/web/emailing/js/cargar-csv.js",
+		"/home/web/emailing/cargar-csv.php",
+		"/home/web/emailing/lib/jquery-filestyle.js",
+		"/home/web/emailing/css/jquery-filestyle.css",
+		"/home/web/emailing/js/index.js",
+		"/home/web/emailing/config.php",
+		"/home/web/emailing/index.php",
+		"/home/web/emailing/crear-proyecto.php",
+		"/home/web/emailing/generar-emailing2.php",
+		"/home/web/emailing/generar-emailing.php",
+		"/home/web/emailing/ajax/ajax_listaProyectos.php",
+		"/home/web/emailing/ajax/ajax_index.php",
+		"/home/web/emailing/plantilla-email.php",
+		"/home/web/emailing/pub/config.php",
+		"/home/web/emailing/cron/envio-masivo.php",
+		"/home/web/emailing/js/plantilla-email.js",
+		"/home/web/emailing/ajax/ajax_encript.php",
+		"/home/web/emailing/css/typeahead.js-bootstrap.css",
+		"/home/web/emailing/lib/typeahead.min.js",
+		"/home/web/emailing/countries.json",
+		"/home/web/emailing/lib/ckeditor/contents.css",
+		"/home/web/emailing/lib/jquery.cookie.js",
+		"/home/javier/.config/sublime-text-2/Packages/Git/Git.sublime-settings",
+		"/home/javier/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/javier/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/home/web/winchannel/index.php",
+		"/home/web/winchannel/footer.php",
+		"/home/web/winchannel/header.php",
+		"/home/web/winchannel/eventos.php",
+		"/home/web/winchannel/librerias/calendar/calendar.css",
+		"/home/web/winchannel/librerias/calendar/calendar.js",
+		"/home/web/winchannel/config.ini.php",
+		"/home/web/winchannel/librerias/fullcalendar/js/fullcalendar.js",
+		"/home/web/winchannel/noticias.php",
+		"/home/web/CRM_TMR/lib/DB_mysql.class.php",
+		"/home/web/mailingV3/index.php",
+		"/home/web/CRM_TMR/ajax/admin.php",
+		"/home/web/mailingV3/config.php",
+		"/home/web/videollamada/index.php",
+		"/home/web/CRM_TMR/index.php",
+		"/home/web/CRM_TMR/admin.php",
+		"/home/web/winchannel/theme/cosmo/css/custom.css",
+		"/home/web/winchannel/librerias/bootstrap-inputmask.js",
+		"/home/javier/.cache/.fr-Cr3UNF/bootstrap-inputmask.js",
+		"/home/web/winchannel/librerias/datepicker/datepicker.css",
+		"/home/web/winchannel/librerias/datepicker/datepicker.js",
+		"/home/web/winchannel/css/bootstrap-datetimepicker.min.css",
+		"/home/web/winchannel/videos.php",
+		"/home/web/winchannel/documentos.php",
+		"/home/web/winchannel/theme/cosmo/css/bootstrap.css",
+		"/home/web/winchannel/css/general.css",
+		"/home/web/mailingV3/lib/DB_mysql.class.php",
+		"/home/web/mailingV2/escribir-email.php",
+		"/home/web/mailingV2/enviar-email.php",
+		"/home/web/CRM_TMR/interface_derecha.php",
+		"/home/web/mailingV2/index.php",
+		"/home/web/mailingV3/head.php",
+		"/home/web/CRM_TMR/ajax/index.php",
+		"/home/web/CRM_TMR/js/index.js",
+		"/home/web/CRM_TMR/js/logica.js",
+		"/home/web/CRM_TMR/footer.php",
+		"/home/web/CRM_TMR/ajax/upload.php",
+		"/home/web/CRM_TMR/logout.php",
+		"/home/web/CRM_TMR/login.php",
+		"/home/web/CRM_TMR/bootstrap/css/general.css",
+		"/home/web/CRM_TMR/js/admin.js",
+		"/home/web/CRM_TMR/header.php",
+		"/home/web/CRM_TMR/bootstrap/datetimepicker/build/js/datetimepicker.min.js",
+		"/home/web/CRM_TMR/bootstrap/datetimepicker/src/js/bootstrap-datetimepicker.js",
+		"/home/web/CRM_TMR/bootstrap/datetimepicker/build/css/datetimepicker.min.css",
+		"/home/web/CRM_TMR/backoffice/index.php",
+		"/home/web/CRM_TMR/backoffice/ajax/CrearTabla.php",
+		"/home/web/CRM_TMR/backoffice/ajax/GuardarRegistro.php",
+		"/home/web/CRM_TMR/backoffice/footer.php",
+		"/home/web/CRM_TMR/estadisticas.php",
+		"/home/web/editTable/jeditable/js.js",
+		"/home/web/CRM_TMR/html5/html5forms.fallback.js",
+		"/home/web/CRM_TMR/js/test_modernizr.js",
+		"/home/web/modernizr_prueba/modernizr.custom.59921.js",
+		"/home/web/CRM_TMR/backoffice/header.php",
+		"/C/xampp/htdocs/hack_paginasamarillas/Todo.php",
+		"/C/xampp/htdocs/CRM_TMR/lib/DB_mysql.class.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/signin.css",
+		"/C/xampp/htdocs/hack_paginasamarillas/index.php",
+		"/C/xampp/htdocs/CRM_TMR/bootstrap/css/general.css",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/hack_paginasamarillas/index.php",
+		"/C/xampp/htdocs/CRM_TMR/header.php",
+		"/C/Users/jamartinez/Desktop/index.html",
+		"/C/xampp/php/php.ini",
+		"/C/Users/jamartinez/Dropbox/Proyectos/web/videollamada/DB_mysql.class.php",
+		"/C/xampp/phpMyAdmin/config.inc.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"    ",
+			"new DB_mysql()",
+			"new DB_mysql",
+			"DB_mysql",
+			"requerido",
+			"C2",
+			"CKEDITOR",
+			"inline-block",
+			"requiere",
+			" Contacto='si'",
+			"error_re",
+			"noti"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"required",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 189.0,
+	"status_bar_visible": true
+}

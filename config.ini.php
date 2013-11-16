@@ -1,10 +1,8 @@
 <?php
-
-	$Theme="metro";
-
-	$BBDDHost="localhost";
-	$BBDDTabla="";
-	$BBDDUser="root";
-	$BBDDClave="0707";
-
+	$Theme="theme/metro/";
+	$Empresa="Microsoft";
+	$mySQLHost="localhost";
+	$mySQLBBDD="Formacion_Winchannel";
+	$mySQLUser="root";
+	$mySQLPass="0707";
 ?>

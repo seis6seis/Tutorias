@@ -1,6 +1,6 @@
 <?php
-	$Pagina="index";
-	$TituloPagina="Inicio";
+	$Pagina="manuales";
+	$TituloPagina="Manuales";
 	include "header.php";
 	require_once("lib/DB_mysql.class.php");
 	//Configura la BBDD
@@ -16,7 +16,7 @@
 		<div class="col-lg-12 Panel_Central">
 
 					<!-- Comienzo del contenido de la pagina -->
-<?php echo $bbddPagina['ContenidoHTML']; ?>
+
 					<!-- Fin del contenido de la pagina -->
 
 		</div>
