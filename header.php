@@ -40,8 +40,8 @@
 	if ($Pagina=='index') echo " class='active'";
 	echo "><a href='index.php'>Inicio</a></li>\n";
 	echo "					<li";
-	if ($Pagina=='informacion') echo " class='active'";
-	echo "><a href='informacion.php'>Información</a></li>\n";
+	if ($Pagina=='noticias') echo " class='active'";
+	echo "><a href='noticias.php'>Noticias</a></li>\n";
 	echo "					<li";
 	if ($Pagina=='manuales') echo " class='active'";
 	echo "><a href='manuales.php'>Manuales</a></li>\n";

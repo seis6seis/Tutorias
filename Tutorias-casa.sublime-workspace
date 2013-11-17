@@ -83,6 +83,30 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "noticias.php",
+			"settings":
+			{
+				"buffer_size": 1361,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/noticias.js",
+			"settings":
+			{
+				"buffer_size": 992,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/ajax/noticias.php",
+			"settings":
+			{
+				"buffer_size": 2002,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -132,6 +156,24 @@
 	},
 	"file_history":
 	[
+		"/home/web/Tutorias/lib/DB_mysql.class.php",
+		"/home/web/Tutorias/header.php",
+		"/home/web/Tutorias/footer.php",
+		"/home/web/Tutorias/js/ajax/noticias.php",
+		"/home/web/Tutorias/theme/metro/css/general.css",
+		"/home/web/Tutorias/index.php",
+		"/home/web/Tutorias/admin/config.ini.php",
+		"/home/web/Tutorias/noticias.php",
+		"/home/web/Tutorias/videos.php",
+		"/home/web/Tutorias/config.ini.php",
+		"/home/web/Tutorias/cache_start.php",
+		"/home/web/Tutorias/.htaccess",
+		"/home/web/Tutorias/webcast.php",
+		"/home/web/Tutorias/manuales.php",
+		"/home/web/Tutorias/informacion.php",
+		"/home/web/Tutorias/cache_end.php",
+		"/home/web/Tutorias/end_cache.php",
+		"/home/web/Tutorias/start_cache.php",
 		"/home/web/hack_paginasamarillas/css/screen.css",
 		"/home/web/hack_paginasamarillas/index.php",
 		"/home/web/hack_paginasamarillas/administrar.php",
@@ -260,6 +302,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"  ",
 			"    ",
 			"new DB_mysql()",
 			"new DB_mysql",
@@ -292,8 +335,101 @@
 	"groups":
 	[
 		{
+			"selected": 2,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "noticias.php",
+					"settings":
+					{
+						"buffer_size": 1361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1289,
+								1289
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 408.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/noticias.js",
+					"settings":
+					{
+						"buffer_size": 992,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								461,
+								461
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 204.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/ajax/noticias.php",
+					"settings":
+					{
+						"buffer_size": 2002,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								373,
+								373
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -328,6 +464,10 @@
 		]
 	},
 	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
 	"output.sftp":
 	{
 		"height": 0.0
